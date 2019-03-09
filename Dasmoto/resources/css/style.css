@@ -1,0 +1,36 @@
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+
+#MainTitle{
+  background-image: url('../images/pattern.jpeg');
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+.description em {
+    font-weight: bold;
+    color: blue;
+    font-style: normal;
+}
+
+.SectionTitle h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushesSectionTitle h2{
+  background-color: mediumspringgreen;
+}
+
+#framesSectionTitle h2{
+  background-color: lightcoral;
+}
+
+#paintSectionTitle h2{
+  background-color: skyblue;
+}
